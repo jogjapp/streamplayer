@@ -1,0 +1,6 @@
+---
+title: Mini Stream Player
+theme: jekyll-theme-cayman
+exclude:
+- Gemfile
+- Gemfile.lock
