@@ -3,4 +3,4 @@ title: Mini Stream Player
 layout: home
 ---
 
-test wae
+Stream Player page
